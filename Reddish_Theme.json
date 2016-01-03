@@ -87,7 +87,7 @@
       "backgroundColor": "#dbdbdb",
       "bottomBorderColor": "#c1c1c1",
       "controlColor": "#c55857",
-      "pressedControlColor": "#343A48",
+      "pressedControlColor": "#ad3d3d",
       "segmentedControl": {
         "tintColor": "#c55857",
         "borderWidth": 1,
@@ -98,12 +98,12 @@
       "backgroundColor": "#f7f7f7",
       "dividerColor": "#c1c1c1",
       "middleDividerColor": "#E1E1E1",
-      "controlColor": "#c55857",
-      "pressedControlColor": "#343A48",
-      "iconColor": "#c55857",
-      "textColor": "#c55857",
+      "controlColor": "#d37c7c",
+      "pressedControlColor": "#ad3d3d",
+      "iconColor": "#d37c7c",
+      "textColor": "#d37c7c",
       "popUpButton": {
-        "titleColor": "#7c9b97",
+        "titleColor": "#d37c7c",
         "borderColor": "#ababab"
       },
       "tagField": {
@@ -118,7 +118,7 @@
       },
       "formatBar": {
         "controlColor": "#c55857",
-        "highlightColor": "#3fb1d0"
+        "highlightColor": "#d37c7c"
       },
       "searchField": {
         "textColor": "#444",
