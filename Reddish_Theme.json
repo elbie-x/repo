@@ -228,7 +228,7 @@
     "backgroundColor": "#FFF"
   },
   "editor": {
-    "codeCellTheme": "Crimson Editor",
+    "codeCellTheme": "crimson_editor",
     "markdownCellTheme": "textmate"
   },
   "css": {
